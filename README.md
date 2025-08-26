@@ -75,7 +75,6 @@
 
 ### 📄 Резюме и контакты
 
-- 📑 [Скачать резюме](https://your-resume-link.com)
 - 💬 Telegram: [@mctikn](https://t.me/mctikn)
 - 📫 Email: udelnov-m@yandex.ru
 
